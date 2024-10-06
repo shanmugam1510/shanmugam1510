@@ -1,0 +1,11 @@
+body {
+  background-color: white;
+
+  background-image: url("C:\Users\shang\Downloads\Element.png");
+  background-image: url("C:\Users\shang\Downloads\tourist-with-thumb-up__1_-removebg 1.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+}
